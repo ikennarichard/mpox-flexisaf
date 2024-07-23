@@ -470,5 +470,9 @@
     "Macau": {
         "Cases": 2.0,
         "Deaths": 0
+    },
+        "World": {
+        "Cases": 98001,
+        "Deaths": 183
     }
 }
