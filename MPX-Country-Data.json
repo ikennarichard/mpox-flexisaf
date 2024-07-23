@@ -1,0 +1,478 @@
+{
+    "Aruba": {
+        "Cases": 3.0,
+        "Deaths": 0
+    },
+    "Andorra": {
+        "Cases": 4.0,
+        "Deaths": 0
+    },
+    "United Arab Emirates": {
+        "Cases": 16.0,
+        "Deaths": 0
+    },
+    "Argentina": {
+        "Cases": 1149.0,
+        "Deaths": 2
+    },
+    "Australia": {
+        "Cases": 222.0,
+        "Deaths": 0
+    },
+    "Austria": {
+        "Cases": 348.0,
+        "Deaths": 1
+    },
+    "Belgium": {
+        "Cases": 809.0,
+        "Deaths": 2
+    },
+    "Benin": {
+        "Cases": 3.0,
+        "Deaths": 0
+    },
+    "Bulgaria": {
+        "Cases": 7.0,
+        "Deaths": 0
+    },
+    "Bahrain": {
+        "Cases": 2.0,
+        "Deaths": 0
+    },
+    "Bahamas": {
+        "Cases": 3.0,
+        "Deaths": 0
+    },
+    "Bosnia and Herzegovina": {
+        "Cases": 9.0,
+        "Deaths": 0
+    },
+    "Bermuda": {
+        "Cases": 1.0,
+        "Deaths": 0
+    },
+    "Bolivia": {
+        "Cases": 265.0,
+        "Deaths": 0
+    },
+    "Brazil": {
+        "Cases": 11212.0,
+        "Deaths": 16
+    },
+    "Barbados": {
+        "Cases": 1.0,
+        "Deaths": 0
+    },
+    "Central African Republic": {
+        "Cases": 52.0,
+        "Deaths": 1
+    },
+    "Canada": {
+        "Cases": 1532.0,
+        "Deaths": 0
+    },
+    "Switzerland": {
+        "Cases": 579.0,
+        "Deaths": 0
+    },
+    "Chile": {
+        "Cases": 1449.0,
+        "Deaths": 3
+    },
+    "Cameroon": {
+        "Cases": 54.0,
+        "Deaths": 3
+    },
+    "Democratic Republic of the Congo": {
+        "Cases": 2205.0,
+        "Deaths": 2
+    },
+    "Republic of the Congo": {
+        "Cases": 55.0,
+        "Deaths": 2
+    },
+    "Colombia": {
+        "Cases": 4239.0,
+        "Deaths": 0
+    },
+    "Costa Rica": {
+        "Cases": 225.0,
+        "Deaths": 0
+    },
+    "Cuba": {
+        "Cases": 8.0,
+        "Deaths": 1
+    },
+    "Cura\u00e7ao": {
+        "Cases": 3.0,
+        "Deaths": 0
+    },
+    "Cyprus": {
+        "Cases": 5.0,
+        "Deaths": 0
+    },
+    "Czechia": {
+        "Cases": 82.0,
+        "Deaths": 1
+    },
+    "Germany": {
+        "Cases": 3847.0,
+        "Deaths": 0
+    },
+    "Denmark": {
+        "Cases": 198.0,
+        "Deaths": 0
+    },
+    "Dominican Republic": {
+        "Cases": 52.0,
+        "Deaths": 0
+    },
+    "Ecuador": {
+        "Cases": 557.0,
+        "Deaths": 3
+    },
+    "Egypt": {
+        "Cases": 3.0,
+        "Deaths": 0
+    },
+    "Spain": {
+        "Cases": 8030.0,
+        "Deaths": 3
+    },
+    "Estonia": {
+        "Cases": 11.0,
+        "Deaths": 0
+    },
+    "Finland": {
+        "Cases": 43.0,
+        "Deaths": 0
+    },
+    "France": {
+        "Cases": 4249.0,
+        "Deaths": 0
+    },
+    "United Kingdom": {
+        "Cases": 3952.0,
+        "Deaths": 0
+    },
+    "Georgia": {
+        "Cases": 2.0,
+        "Deaths": 0
+    },
+    "Ghana": {
+        "Cases": 131.0,
+        "Deaths": 4
+    },
+    "Gibraltar": {
+        "Cases": 6.0,
+        "Deaths": 0
+    },
+    "Guadeloupe": {
+        "Cases": 1.0,
+        "Deaths": 0
+    },
+    "Greece": {
+        "Cases": 99.0,
+        "Deaths": 0
+    },
+    "Greenland": {
+        "Cases": 2.0,
+        "Deaths": 0
+    },
+    "Guatemala": {
+        "Cases": 405.0,
+        "Deaths": 1
+    },
+    "Guyana": {
+        "Cases": 2.0,
+        "Deaths": 0
+    },
+    "Honduras": {
+        "Cases": 44.0,
+        "Deaths": 0
+    },
+    "Croatia": {
+        "Cases": 34.0,
+        "Deaths": 0
+    },
+    "Hungary": {
+        "Cases": 83.0,
+        "Deaths": 0
+    },
+    "Indonesia": {
+        "Cases": 87.0,
+        "Deaths": 0
+    },
+    "India": {
+        "Cases": 27.0,
+        "Deaths": 1
+    },
+    "Ireland": {
+        "Cases": 247.0,
+        "Deaths": 0
+    },
+    "Iran": {
+        "Cases": 1.0,
+        "Deaths": 0
+    },
+    "Iceland": {
+        "Cases": 17.0,
+        "Deaths": 0
+    },
+    "Israel": {
+        "Cases": 312.0,
+        "Deaths": 0
+    },
+    "Italy": {
+        "Cases": 1047.0,
+        "Deaths": 0
+    },
+    "Jamaica": {
+        "Cases": 21.0,
+        "Deaths": 0
+    },
+    "Jordan": {
+        "Cases": 1.0,
+        "Deaths": 0
+    },
+    "Japan": {
+        "Cases": 247.0,
+        "Deaths": 1
+    },
+    "Cambodia": {
+        "Cases": 13.0,
+        "Deaths": 0
+    },
+    "South Korea": {
+        "Cases": 158.0,
+        "Deaths": 0
+    },
+    "Laos": {
+        "Cases": 1.0,
+        "Deaths": 0
+    },
+    "Lebanon": {
+        "Cases": 27.0,
+        "Deaths": 0
+    },
+    "Liberia": {
+        "Cases": 23.0,
+        "Deaths": 0
+    },
+    "Sri Lanka": {
+        "Cases": 4.0,
+        "Deaths": 0
+    },
+    "Lithuania": {
+        "Cases": 5.0,
+        "Deaths": 0
+    },
+    "Luxembourg": {
+        "Cases": 61.0,
+        "Deaths": 0
+    },
+    "Latvia": {
+        "Cases": 6.0,
+        "Deaths": 0
+    },
+    "Saint Martin": {
+        "Cases": 1.0,
+        "Deaths": 0
+    },
+    "Morocco": {
+        "Cases": 3.0,
+        "Deaths": 0
+    },
+    "Monaco": {
+        "Cases": 3.0,
+        "Deaths": 0
+    },
+    "Moldova": {
+        "Cases": 2.0,
+        "Deaths": 0
+    },
+    "Mexico": {
+        "Cases": 4109.0,
+        "Deaths": 34
+    },
+    "Malta": {
+        "Cases": 35.0,
+        "Deaths": 0
+    },
+    "Montenegro": {
+        "Cases": 2.0,
+        "Deaths": 0
+    },
+    "Mozambique": {
+        "Cases": 1.0,
+        "Deaths": 1
+    },
+    "Martinique": {
+        "Cases": 7.0,
+        "Deaths": 0
+    },
+    "Malaysia": {
+        "Cases": 9.0,
+        "Deaths": 0
+    },
+    "New Caledonia": {
+        "Cases": 1.0,
+        "Deaths": 0
+    },
+    "Nigeria": {
+        "Cases": 858.0,
+        "Deaths": 9
+    },
+    "Netherlands": {
+        "Cases": 1302.0,
+        "Deaths": 0
+    },
+    "Norway": {
+        "Cases": 106.0,
+        "Deaths": 0
+    },
+    "Nepal": {
+        "Cases": 1.0,
+        "Deaths": 0
+    },
+    "New Zealand": {
+        "Cases": 51.0,
+        "Deaths": 0
+    },
+    "Oman": {
+        "Cases": 3.0,
+        "Deaths": 0
+    },
+    "Pakistan": {
+        "Cases": 7.0,
+        "Deaths": 0
+    },
+    "Panama": {
+        "Cases": 239.0,
+        "Deaths": 1
+    },
+    "Peru": {
+        "Cases": 3812.0,
+        "Deaths": 20
+    },
+    "Philippines": {
+        "Cases": 9.0,
+        "Deaths": 0
+    },
+    "Poland": {
+        "Cases": 223.0,
+        "Deaths": 0
+    },
+    "Portugal": {
+        "Cases": 1193.0,
+        "Deaths": 3
+    },
+    "Paraguay": {
+        "Cases": 126.0,
+        "Deaths": 0
+    },
+    "Qatar": {
+        "Cases": 5.0,
+        "Deaths": 0
+    },
+    "Romania": {
+        "Cases": 47.0,
+        "Deaths": 0
+    },
+    "Russia": {
+        "Cases": 4.0,
+        "Deaths": 0
+    },
+    "Saudi Arabia": {
+        "Cases": 8.0,
+        "Deaths": 0
+    },
+    "Sudan": {
+        "Cases": 19.0,
+        "Deaths": 1
+    },
+    "Singapore": {
+        "Cases": 60.0,
+        "Deaths": 0
+    },
+    "El Salvador": {
+        "Cases": 104.0,
+        "Deaths": 0
+    },
+    "San Marino": {
+        "Cases": 1.0,
+        "Deaths": 0
+    },
+    "Serbia": {
+        "Cases": 40.0,
+        "Deaths": 0
+    },
+    "Slovakia": {
+        "Cases": 16.0,
+        "Deaths": 0
+    },
+    "Slovenia": {
+        "Cases": 47.0,
+        "Deaths": 0
+    },
+    "Sweden": {
+        "Cases": 297.0,
+        "Deaths": 0
+    },
+    "Thailand": {
+        "Cases": 795.0,
+        "Deaths": 1
+    },
+    "Trinidad & Tobago": {
+        "Cases": 3.0,
+        "Deaths": 0
+    },
+    "Turkey": {
+        "Cases": 12.0,
+        "Deaths": 0
+    },
+    "Ukraine": {
+        "Cases": 5.0,
+        "Deaths": 0
+    },
+    "Uruguay": {
+        "Cases": 19.0,
+        "Deaths": 0
+    },
+    "United States": {
+        "Cases": 33235.0,
+        "Deaths": 59
+    },
+    "Venezuela": {
+        "Cases": 12.0,
+        "Deaths": 0
+    },
+    "Vietnam": {
+        "Cases": 196.0,
+        "Deaths": 7
+    },
+    "South Africa": {
+        "Cases": 18.0,
+        "Deaths": 0
+    },
+    "China": {
+        "Cases": 1931.0,
+        "Deaths": 0
+    },
+    "Hong Kong": {
+        "Cases": 84.0,
+        "Deaths": 0
+    },
+    "Taiwan": {
+        "Cases": 340.0,
+        "Deaths": 0
+    },
+    "Macau": {
+        "Cases": 2.0,
+        "Deaths": 0
+    },
+    "NaN": {
+        "Cases": NaN,
+        "Deaths": 0
+    }
+}
