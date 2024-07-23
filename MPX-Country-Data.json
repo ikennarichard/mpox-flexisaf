@@ -470,9 +470,5 @@
     "Macau": {
         "Cases": 2.0,
         "Deaths": 0
-    },
-    "NaN": {
-        "Cases": NaN,
-        "Deaths": 0
     }
 }
